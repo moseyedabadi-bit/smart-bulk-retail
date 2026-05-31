@@ -1,5 +1,6 @@
 # Level 1 – Manual Gravity Dispenser
 
+# Level 1
 ![Smart Bulk Retail](images/level-1-manual-dispenser.png)
 
 
