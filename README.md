@@ -6,11 +6,22 @@ A Smart Bulk Retail Framework for Sustainable and Resilient Retail Operations
 
 
 
-## Overview
-...
 
 
 ## Overview
+
+## Product Evolution
+### Level 1 - Manual Dispenser
+
+![Level 1](images/level-1-manual-dispenser.png)
+
+### Level 2 - Smart Dispenser
+
+![Level 2](images/level-2-smart-dispenser.png)
+
+### Level 3 - POS Integrated Dispenser
+
+![Level 3](images/level-3-pos-integrated-dispenser.png)
 
 Smart Bulk Retail is a retail innovation framework designed to modernize bulk product sales through controlled dispensing systems, operational efficiency and customer-centered shopping experiences.
 
