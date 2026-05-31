@@ -1,8 +1,7 @@
 # Smart Bulk Dispenser Architecture
 
 # Level 1
-
-![Level 1](../images/level-1-manual-dispenser.png)
+![Smart Bulk Retail](images/level-1-manual-dispenser.png)
 
 Description...
 
@@ -22,7 +21,7 @@ Capabilities:
 
 # Level 2
 
-![Level 2](../images/level-2-smart-dispenser.png)
+![Smart Bulk Retail](images/level-2-smart-dispenser.png)
 
 Description...
 
@@ -43,7 +42,7 @@ Capabilities:
 
 # Level 3
 
-![Level 3](../images/level-3-pos-integrated-dispenser.png)
+![Smart Bulk Retail](images/level-3-pos-integrated-dispenser.png)
 
 Description...
 
