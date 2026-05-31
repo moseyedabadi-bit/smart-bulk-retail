@@ -35,6 +35,13 @@ The framework focuses on:
 
 ---
 
+## Product Showcase
+
+- [Level 1 – Manual Gravity Dispenser](showcase/level-1-overview.md)
+- [Level 2 – Smart Dispenser](showcase/level-2-overview.md)
+- [Level 3 – POS Integrated Smart Dispenser](showcase/level-3-overview.md)
+
+  
 ## Problem Statement
 
 Traditional packaged product sales create limitations in flexibility, customer choice and supply chain adaptability.
