@@ -3,7 +3,7 @@
 
 A Smart Bulk Retail Framework for Sustainable and Resilient Retail Operations
 
-[Smart Bulk Retail](images/Level 3 POS Integrated Dispenser.png)
+![Smart Bulk Retail](images/Level 3 POS Integrated Dispenser.png)
 
 ## Overview
 ...
