@@ -1,5 +1,7 @@
 # Level 1 – Manual Gravity Dispenser
 
+![Level 1](../images/level-1-manual-dispenser.png)
+
 ## Overview
 
 The Level 1 Dispenser is a simple gravity-fed bulk dispensing system designed for rapid deployment and low implementation cost.
