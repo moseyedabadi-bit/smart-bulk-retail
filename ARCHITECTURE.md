@@ -1,6 +1,10 @@
 # Smart Bulk Dispenser Architecture
 
-## Level 1 - Manual
+# Level 1
+
+![Level 1](../images/level-1-manual-dispenser.png)
+
+Description...
 
 Components:
 
@@ -16,7 +20,11 @@ Capabilities:
 
 ---
 
-## Level 2 - Semi-Automatic
+# Level 2
+
+![Level 2](../images/level-2-smart-dispenser.png)
+
+Description...
 
 Components:
 
@@ -33,7 +41,11 @@ Capabilities:
 
 ---
 
-## Level 3 - Fully Automated
+# Level 3
+
+![Level 3](../images/level-3-pos-integrated-dispenser.png)
+
+Description...
 
 Components:
 
