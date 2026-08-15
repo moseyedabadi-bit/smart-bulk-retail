@@ -1,0 +1,40 @@
+schema_version: 1
+project:
+  name: Smart-Bulk-Retail
+  type: retail-product-system-framework
+  status: concept-development
+  domains:
+    - bulk-retail
+    - retail-innovation
+    - dispensing-systems
+    - supply-chain-resilience
+    - sustainable-retail
+  human_entry: README.md
+  ai_entry: llms.txt
+  architecture: ARCHITECTURE.md
+  ai_context: AI_CONTEXT.md
+  preferred_documentation_root: docs/
+  legacy_documentation_root: doc/
+  author:
+    name: Mostafa Seyedabadi
+product_levels:
+  - level: 1
+    name: Manual Gravity Dispenser
+  - level: 2
+    name: Smart Dispenser
+  - level: 3
+    name: POS Integrated Smart Dispenser
+interpretation:
+  deployment_claim: false
+  placeholders_are_authoritative: false
+  compliance_claim: false
+  requires_food_safety_validation: true
+  requires_metrology_validation: true
+  requires_pos_and_security_validation: true
+repository_hygiene:
+  preferred_docs_path: docs/
+  normalized_asset_names: lowercase-kebab-case
+  preserve_legacy_paths_until_migration: true
+safety:
+  prohibit_secrets: true
+  prohibit_sensitive_customer_data: true
