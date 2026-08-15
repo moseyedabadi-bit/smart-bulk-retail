@@ -1,0 +1,31 @@
+# Smart Bulk Retail
+
+Purpose: AI-readable entry point for a modular bulk-retail and dispensing-system framework.
+
+Project type: retail innovation / product-system concept.
+Status: concept development.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. START_HERE.md
+4. WHY.md
+5. ARCHITECTURE.md
+6. AI_CONTEXT.md
+7. docs/ and showcase/ populated Markdown documents
+8. data/kpi-framework.md
+9. ROADMAP.md
+
+Product evolution:
+- Level 1: manual gravity dispenser
+- Level 2: smart/semi-automatic dispenser
+- Level 3: POS-integrated smart dispenser
+
+Interpretation rules:
+- Treat the repository as a product/framework concept unless deployment evidence is explicitly documented.
+- Empty one-byte files are placeholders, not completed specifications.
+- Prefer lower-case normalized image filenames when duplicates contain identical blobs.
+- Do not assume food-safety, metrology, legal, cybersecurity, or POS-integration compliance without jurisdiction- and implementation-specific validation.
+- Keep operational, financial, sustainability, and customer-experience claims separately measurable.
+
+Known structure note: both doc/ and docs/ exist in the legacy repository. New documentation should use docs/; legacy paths are retained to avoid breaking references until a dedicated migration is reviewed.
